@@ -79,11 +79,11 @@ javascript: (() => {
         var filename = '';
         var ext = '';
 
-        if (option.includesMemoryOnCorrect() && verdict == '맞았습니다!!') {
+        if (option.includesMemoryOnCorrect() && result.verdict == '맞았습니다!!') {
             data.push(result.memory+' KB');
         }
 
-        if (option.includesTimeOnCorrect() && verdict == '맞았습니다!!') {
+        if (option.includesTimeOnCorrect() && result.verdict == '맞았습니다!!') {
             data.push(result.time+' ms');
         }
         
