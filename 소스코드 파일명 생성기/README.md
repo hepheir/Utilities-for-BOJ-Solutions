@@ -4,10 +4,13 @@
 
 백준 홈페이지의 [채점현황](https://www.acmicpc.net/status) 페이지에서 사용이 가능하다.
 
-| 적용 모습                                 |
-| ----------------------------------------- |
-| ![Screenshot](./images/example-usage.png) |
+| 적용 모습 (세부 옵션 설정)                         |
+| -------------------------------------------------- |
+| ![Example - Options](./images/example-options.png) |
 
+| 적용 모습 (출력 시)                                |
+| -------------------------------------------------- |
+| ![Example - Outputs](./images/example-outputs.png) |
 
 ## 참고
 
