@@ -14,7 +14,7 @@
 
 ## 소스 코드
 
-- [index.js](./index.js)
+- [index.js](./script/index.js)
 
 ## 참고
 
