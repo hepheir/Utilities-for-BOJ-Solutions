@@ -1,0 +1,23 @@
+{
+    /// ...
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "[BOJ tools] 유저 데이터 셋 추가",
+            "command": "python",
+            "windows": {
+                "command": "C:\\Program Files\\Python\\Python39\\python.exe",
+                "args": [
+                    "${workspaceFolder}\\util\\유저 데이터 셋 추가\\script\\index.py",
+                ],
+            },
+            "args": [
+                "${workspaceFolder}/util/유저 데이터 셋 추가/script/index.py",
+            ],
+            "group": {
+                "kind": "test",
+                "isDefault": true
+            }
+        },
+    ]
+}
